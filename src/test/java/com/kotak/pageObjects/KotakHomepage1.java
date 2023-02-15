@@ -13,7 +13,7 @@ public class KotakHomepage1 {
 	WebDriver ldriver;
 	public static String personalLoanUrl="https://www.kotak.com/en/personal-banking/loans/personal-loan.html";
 
-	public static String EMIUrl="https://www.kotak.com/en/personal-banking/loans/personal-loan/personal-loan-emi-calculator.html123";
+	public static String EMIUrl="https://www.kotak.com/en/personal-banking/loans/personal-loan/personal-loan-emi-calculator.html";
 
 	public KotakHomepage1(WebDriver rdriver)
 	{
